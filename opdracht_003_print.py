@@ -1,0 +1,8 @@
+print("Hallo Sis")
+print("Huize Paplepel")
+print(True)
+print(False, True)
+print(3)
+print(3, 5, 7, 9)
+print("hallo", 3, 5)
+print("hallo", 3, 5, False)
